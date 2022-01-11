@@ -1,4 +1,16 @@
+.App {
+    display: flex;
+}
+
 .UpDownCounter {
     border: 2px solid black;
     width: 100px;
+    margin-right: 10px;
+}
+
+p {
+    text-align: center;
+}
+button {
+    width: 100%;
 }

@@ -12,5 +12,6 @@ p {
     text-align: center;
 }
 button {
-    width: 100%;
+    margin-left: 25%;
+    width: 50%;
 }
